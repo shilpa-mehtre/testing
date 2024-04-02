@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("Hello");
 		System.out.println("Hello");
 
-		system.out.println("hi")
+  public void m1()
+	  {
+	  system.out.println("hi");
 	}
 }
